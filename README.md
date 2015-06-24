@@ -2,7 +2,7 @@
 A prayer time database extracted from JAKIM Malaysia.
 
 ##About
-[Source data: http://www.e-solat.gov.my/](http://www.e-solat.gov.my/)
+Source: [http://www.e-solat.gov.my/](http://www.e-solat.gov.my/)
 
 Data is scrapped with my own custom scrapper. Sorry, scrapper script is too messy to share. I has a shy. 
 
