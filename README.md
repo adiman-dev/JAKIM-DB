@@ -10,7 +10,11 @@ As we all know, JAKIM only releases their data yearly and the data is obviously 
 
 Anybody is free to download and use this data as their liking. 
 
+##Contents
+1. jakim_2015.db : A sqlite db binary. 
+2. jakim_2015.sql : A SQLite databse dump file 
+
 ##Disclaimer
 I am not an official JAKIM affiliate nor representing JAKIM
 
-I am not responsible for any damages caused from using this data. Data is provided as is with a community best effort to minimise errors and discrepencies. 
+I am not responsible/liable for any damages caused from using this data. Data is provided as is with a community best effort to minimise errors and discrepencies. 
