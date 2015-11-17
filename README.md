@@ -1,3 +1,5 @@
+بسم الله الرّحمٰن الرّحيم
+
 # JAKIM-DB
 A prayer time database extracted from JAKIM Malaysia.
 
